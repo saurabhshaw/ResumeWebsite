@@ -10,7 +10,6 @@
     "fs-extra": "^9.1.0",
     "gh-pages": "^2.2.0",
     "jquery": "^3.5.1",
-    "node-sass": "^4.14.1",
     "particles-bg": "^2.5.5",
     "prop-types": "^15.7.2",
     "react": "^16.14.0",
@@ -46,5 +45,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "sass": "^1.49.7"
   }
 }
